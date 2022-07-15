@@ -11,6 +11,7 @@
 - Also, I've worked with: `Django`, `Flask`, `Ruby On Rails` and `.NETCORE`
 
 #### Interested on: 
+- 💻 Web development
 - 🚀 DevOps
 - 🔁 Project management
 - 🔍 Testing
