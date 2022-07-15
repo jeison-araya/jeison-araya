@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**jeison-araya/jeison-araya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm an active student of Business computing at Univerity of Costa Rica.
+🔭 Most of my experience its based on Fastapi with Python and Typescript with Angular. 
 
-Here are some ideas to get you started:
+#### Languajes:
+- Mostly worked: `Python` and `Javascript`
+- Some experience with: `C#`, `Java` and `Ruby`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Technologies:
+- Mostly worked: `Fastapi` and `Angular`
+- Also, I've worked with: `Django`, `Flask`, `Ruby On Rails` and `.NETCORE`
+
+#### Interested on: 
+- 🚀 DevOps
+- 🔁 Project management
+- 🔍 Testing
