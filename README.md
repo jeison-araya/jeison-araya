@@ -1,7 +1,6 @@
-### Hi there 👋 
+### About me 
 
-🌱 I'm an active student of Business computing at Univerity of Costa Rica.
-🔭 Most of my experience its based on Fastapi with Python and Typescript with Angular. 
+📌 I'm an active student of Business computing at Univerity of Costa Rica.
 
 #### Languajes:
 - Mostly worked: `Python` and `Javascript`
