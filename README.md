@@ -3,7 +3,7 @@
 📌 Active student of Business computing at `Universidad de Costa Rica`.
 
 #### Languajes:
-- Mostly worked: `Python` and `Javascript`
+- Mostly worked: `Python` and `Typescript`
 - Some experience with: `C#`, `Java` and `Ruby`
 
 #### Technologies:
