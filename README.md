@@ -1,6 +1,6 @@
 ### About me 
 
-📌 Active student of Business computing at Univerity of Costa Rica.
+📌 Active student of Business computing at `Universidad de Costa Rica`.
 
 #### Languajes:
 - Mostly worked: `Python` and `Javascript`
