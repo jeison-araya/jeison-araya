@@ -2,7 +2,7 @@
 
 📌 Active student of Business computing at `Universidad de Costa Rica`
 
-#### Languajes:
+#### Languages:
 - Mostly worked: `Python` and `Typescript`
 - Some experience with: `C#`, `Java` and `Ruby`
 
@@ -15,3 +15,7 @@
 - 🚀 DevOps
 - 🔁 Project management
 - 🔍 Testing
+
+
+#### Contacts:
+- 📧 jeison.arayamena@gmail.com
