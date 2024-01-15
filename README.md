@@ -17,5 +17,11 @@
 - 🛜 IoT projects
 - 🔍 Testing
 
+#### Some of my projects
+
+- [Kabimed - Electronic health record (EHR)](https://kabimed.app/)
+- [Gas Prices - Costa Rica](https://recope-prices-colc4bebd-jeison-araya.vercel.app/)
+
+
 #### Contacts:
 - 📧 jeison.arayamena@gmail.com
