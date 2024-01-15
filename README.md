@@ -21,6 +21,7 @@
 
 - [Kabimed - Electronic health record (EHR)](https://kabimed.app/)
 - [Gas Prices - Costa Rica](https://recope-prices-colc4bebd-jeison-araya.vercel.app/)
+- [FastAPI Monitoring Template with Grafana and Prometheus](https://github.com/jeison-araya/fastapi-monitoring-template)
 
 
 #### Contacts:
